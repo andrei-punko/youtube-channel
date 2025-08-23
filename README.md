@@ -143,6 +143,7 @@
 | Прокрутка односвязного списка (leetcode)                                                         | [YouTube](https://youtu.be/6tyflwO6PwY) |
 | Прохождение практического теста "продвинутый" по Java на hh.ru                                   | [YouTube](https://youtu.be/ce3g0nIJl24) |
 | Прохождение практического теста "средний" по Java на hh.ru                                       | [YouTube](https://youtu.be/ja4nLzZSj3s) |
+| Прохождение теоретического теста "базовый" по C++ на hh.ru                                       | [YouTube](https://youtu.be/rTvCgnm_KKo) |
 | Прохождение теоретического теста "базовый" по Java на hh.ru                                      | [YouTube](https://youtu.be/SHVPXcplGCk) |
 | Прохождение теста "базовый" по Docker на hh.ru                                                   | [YouTube](https://youtu.be/IxHZyON_MYY) |
 | Прохождение теста "базовый" по Git на hh.ru                                                      | [YouTube](https://youtu.be/DiVsSMsuxP8) |
@@ -198,6 +199,7 @@
 | Самодельный ThreadPoolExecutor                                                                   | [YouTube](https://youtu.be/FmJasJ-W-Rs) |
 | Сборка и запуск Java-проекта без помощи IDE и средств сборки                                     | [YouTube](https://youtu.be/bsWOXmZwrks) |
 | Сжатие строки (Яндекс)                                                                           | [YouTube](https://youtu.be/s3sGF7C6cV8) |
+| Синхронизация часов по сети (презентация)                                                        | [YouTube](https://youtu.be/MX5kWE-u024) |
 | Слияние k упорядоченных массивов быстрее, чем за kN*log(kN)                                      | [YouTube](https://youtu.be/HqGYyGYKtBs) |
 | Создаем deadlock                                                                                 | [YouTube](https://youtu.be/xuWU_6JTXi4) |
 | Создание объекта по типу, указанному как generic (2 решения)                                     | [YouTube](https://youtu.be/vkn_2w-oJIo) |
