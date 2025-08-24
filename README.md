@@ -17,6 +17,7 @@
 | Realtime анализатор спектра звука на Java                                                        | [YouTube](https://youtu.be/OfHj-EmXh2k) |
 | Spring Boot приложение с использованием PostgreSQL JSONB                                         | [YouTube](https://youtu.be/AzvJe9ij53o) |
 | System Design: Scale from zero to millions of users (presentation)                               | [YouTube](https://youtu.be/wpif_188g1c) |
+| System Design: Проектирование REST API на интервью (LIVE)                                        | [YouTube](https://youtu.be/6rincLN3jIw) |
 | Web crawler (парсер сайта) на Java                                                               | [YouTube](https://youtu.be/4qxvkALcWjQ) |
 | Бинарное дерево поиска                                                                           | [YouTube](https://youtu.be/DGLiObeU04A) |
 | Бинарный поиск в упорядоченном массиве                                                           | [YouTube](https://youtu.be/RaxWD5yAQ9Q) |
